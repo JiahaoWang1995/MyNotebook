@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Study\\Android\\Projects\\MyNotebook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Study\\Android\\Projects\\MyNotebook\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Study\\Android\\Projects\\MyNotebook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_note.xml",
+        "source": "D:\\Study\\Android\\Projects\\MyNotebook\\app\\src\\main\\res\\menu\\menu_note.xml"
+    },
+    {
+        "merged": "D:\\Study\\Android\\Projects\\MyNotebook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_select.xml",
+        "source": "D:\\Study\\Android\\Projects\\MyNotebook\\app\\src\\main\\res\\menu\\menu_select.xml"
+    }
+]
